@@ -1,7 +1,6 @@
 {
   "name": "mpesa-backend",
   "version": "1.0.0",
-  "description": "M-PESA STK Push API for Discord Premium",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
